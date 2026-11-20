@@ -1,0 +1,2646 @@
+{
+  "users": [
+    {
+      "id": "49685fcc-1876-4b37-b5dd-d17eabab1f45",
+      "username": "admin",
+      "name": "System Administrator",
+      "email": "admin@kzntreasury.gov.za",
+      "role": "Admin",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Admin@123"
+    },
+    {
+      "id": "6c396428-77c7-41bc-ab28-30d184f0148c",
+      "username": "admin2",
+      "name": "System Administrator 2",
+      "email": "admin2@kzntreasury.gov.za",
+      "role": "Admin",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Admin@123"
+    },
+    {
+      "id": "06a69250-bdb5-45e3-b76c-72dad4ad1d77",
+      "username": "admin3",
+      "name": "System Administrator 3",
+      "email": "admin3@kzntreasury.gov.za",
+      "role": "Admin",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Admin@123"
+    },
+    {
+      "id": "0a56357f-2273-4628-bb61-b2a120104c9c",
+      "username": "admin4",
+      "name": "System Administrator 4",
+      "email": "admin4@kzntreasury.gov.za",
+      "role": "Admin",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Admin@123"
+    },
+    {
+      "id": "782e902d-c404-4ca0-b939-613ae773747f",
+      "username": "user",
+      "name": "Department User",
+      "email": "user@kzntreasury.gov.za",
+      "role": "User",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "User@123"
+    },
+    {
+      "id": "658497a1-2f7a-4e1a-b86a-0a2b25daa150",
+      "username": "user2",
+      "name": "Department User 2",
+      "email": "user2@kzntreasury.gov.za",
+      "role": "User",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "User@123"
+    },
+    {
+      "id": "7a5e97b8-9782-4a3e-8492-8800ead4ab56",
+      "username": "user3",
+      "name": "Department User 3",
+      "email": "user3@kzntreasury.gov.za",
+      "role": "User",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "User@123"
+    },
+    {
+      "id": "de30daa3-8089-478a-bb2c-4aefd6e29429",
+      "username": "user4",
+      "name": "Department User 4",
+      "email": "user4@kzntreasury.gov.za",
+      "role": "User",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "User@123"
+    },
+    {
+      "id": "017379a4-8769-4826-ba51-19d32a97997e",
+      "username": "assessment",
+      "name": "Assessment User",
+      "email": "assessment@kzntreasury.gov.za",
+      "role": "Assessment",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Assessment@123"
+    },
+    {
+      "id": "a1b7f04f-39a1-4a2e-8df1-de5f9e720f20",
+      "username": "assessment2",
+      "name": "Assessment User 2",
+      "email": "assessment2@kzntreasury.gov.za",
+      "role": "Assessment",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Assessment@123"
+    },
+    {
+      "id": "271a49b2-1f36-441f-abb4-1d8ce38a51c4",
+      "username": "assessment3",
+      "name": "Assessment User 3",
+      "email": "assessment3@kzntreasury.gov.za",
+      "role": "Assessment",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Assessment@123"
+    },
+    {
+      "id": "b75e43a2-4d3a-4af7-aea4-3880ffe6596f",
+      "username": "assessment4",
+      "name": "Assessment User 4",
+      "email": "assessment4@kzntreasury.gov.za",
+      "role": "Assessment",
+      "departmentId": "16236647-b61f-4d62-96e7-b0018610c728",
+      "department": "Health",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Assessment@123"
+    },
+    {
+      "id": "42debe53-8491-49a1-83a0-6dfabd06bbe4",
+      "username": "validation",
+      "name": "Validation Officer",
+      "email": "validation@kzntreasury.gov.za",
+      "role": "Validation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Validation@123"
+    },
+    {
+      "id": "f8a811e9-4b1b-4767-89e3-8755aa055534",
+      "username": "validation2",
+      "name": "Validation Officer 2",
+      "email": "validation2@kzntreasury.gov.za",
+      "role": "Validation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Validation@123"
+    },
+    {
+      "id": "9ee37559-f4d8-4108-b151-a167d4ea36a1",
+      "username": "validation3",
+      "name": "Validation Officer 3",
+      "email": "validation3@kzntreasury.gov.za",
+      "role": "Validation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Validation@123"
+    },
+    {
+      "id": "d0febb32-a681-4117-a074-691b75cafe46",
+      "username": "validation4",
+      "name": "Validation Officer 4",
+      "email": "validation4@kzntreasury.gov.za",
+      "role": "Validation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Validation@123"
+    },
+    {
+      "id": "67bc3fa4-0380-4b4f-8c7b-f0311ecbc038",
+      "username": "committee",
+      "name": "Committee Member",
+      "email": "committee@kzntreasury.gov.za",
+      "role": "Committee",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Committee@123"
+    },
+    {
+      "id": "d1284d70-7a50-4460-ae32-8f91161c026f",
+      "username": "committee2",
+      "name": "Committee Member 2",
+      "email": "committee2@kzntreasury.gov.za",
+      "role": "Committee",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Committee@123"
+    },
+    {
+      "id": "044a4ab0-6e8e-4342-aea8-74da4517298e",
+      "username": "committee3",
+      "name": "Committee Member 3",
+      "email": "committee3@kzntreasury.gov.za",
+      "role": "Committee",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Committee@123"
+    },
+    {
+      "id": "b931c112-8103-4d4c-a64e-4659cb70c96c",
+      "username": "committee4",
+      "name": "Committee Member 4",
+      "email": "committee4@kzntreasury.gov.za",
+      "role": "Committee",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Committee@123"
+    },
+    {
+      "id": "c64130bd-4ccf-46fe-b9f7-f1e1ae9f35c8",
+      "username": "hod",
+      "name": "Head of Department",
+      "email": "hod@kzntreasury.gov.za",
+      "role": "HOD",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "HOD@123"
+    },
+    {
+      "id": "51401d49-d88c-46c5-882e-1298f7acce97",
+      "username": "hod2",
+      "name": "Head of Department 2",
+      "email": "hod2@kzntreasury.gov.za",
+      "role": "HOD",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "HOD@123"
+    },
+    {
+      "id": "06d276e4-0ef5-4b7a-90bf-5cd1b0530a17",
+      "username": "hod3",
+      "name": "Head of Department 3",
+      "email": "hod3@kzntreasury.gov.za",
+      "role": "HOD",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "HOD@123"
+    },
+    {
+      "id": "1f0da3c5-8269-4f5a-86fb-a5bea0038fd9",
+      "username": "hod4",
+      "name": "Head of Department 4",
+      "email": "hod4@kzntreasury.gov.za",
+      "role": "HOD",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "HOD@123"
+    },
+    {
+      "id": "d0dd75c3-7d42-48de-aca5-ad6ab2821edb",
+      "username": "condonation",
+      "name": "Condonation Team",
+      "email": "condonation@kzntreasury.gov.za",
+      "role": "Condonation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Condonation@123"
+    },
+    {
+      "id": "72b657bd-696e-4604-a262-9a73922d5032",
+      "username": "condonation2",
+      "name": "Condonation Team 2",
+      "email": "condonation2@kzntreasury.gov.za",
+      "role": "Condonation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Condonation@123"
+    },
+    {
+      "id": "15efb8ca-ec00-4953-b0d4-4c0bb5be5d61",
+      "username": "condonation3",
+      "name": "Condonation Team 3",
+      "email": "condonation3@kzntreasury.gov.za",
+      "role": "Condonation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Condonation@123"
+    },
+    {
+      "id": "05ebf119-2762-4d6e-946f-341a5f19356b",
+      "username": "condonation4",
+      "name": "Condonation Team 4",
+      "email": "condonation4@kzntreasury.gov.za",
+      "role": "Condonation",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Condonation@123"
+    },
+    {
+      "id": "19f2d7ee-5d85-4ce7-ae13-681d6643f505",
+      "username": "summary",
+      "name": "Summary Viewer",
+      "email": "summary@kzntreasury.gov.za",
+      "role": "Summary",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Summary@123"
+    },
+    {
+      "id": "c1df30cc-a244-4e79-ad6b-f2779c57f97c",
+      "username": "summary2",
+      "name": "Summary Viewer 2",
+      "email": "summary2@kzntreasury.gov.za",
+      "role": "Summary",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Summary@123"
+    },
+    {
+      "id": "e9b39124-d538-44f0-ae5b-1ae09442581a",
+      "username": "summary3",
+      "name": "Summary Viewer 3",
+      "email": "summary3@kzntreasury.gov.za",
+      "role": "Summary",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Summary@123"
+    },
+    {
+      "id": "c6b2fed7-4bd7-4acd-92b4-61856b4e6c1b",
+      "username": "summary4",
+      "name": "Summary Viewer 4",
+      "email": "summary4@kzntreasury.gov.za",
+      "role": "Summary",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Summary@123"
+    },
+    {
+      "id": "637062e6-09ee-49fb-9821-af210d59fe25",
+      "username": "public",
+      "name": "Public Viewer",
+      "email": "public@kzntreasury.gov.za",
+      "role": "Public",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Public@123"
+    },
+    {
+      "id": "cf366810-62bf-45b5-8169-7a8ea576dde6",
+      "username": "public2",
+      "name": "Public Viewer 2",
+      "email": "public2@kzntreasury.gov.za",
+      "role": "Public",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Public@123"
+    },
+    {
+      "id": "fd9e80a1-9f0c-4b6e-880d-7f194cb0dc05",
+      "username": "public3",
+      "name": "Public Viewer 3",
+      "email": "public3@kzntreasury.gov.za",
+      "role": "Public",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Public@123"
+    },
+    {
+      "id": "f753a168-f714-48f4-bedf-16e2afeb7eb3",
+      "username": "public4",
+      "name": "Public Viewer 4",
+      "email": "public4@kzntreasury.gov.za",
+      "role": "Public",
+      "departmentId": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "department": "Finance",
+      "isActive": true,
+      "createdAt": "2026-06-19T00:00:00.000Z",
+      "updatedAt": "2026-06-19T00:00:00.000Z",
+      "password": "Public@123"
+    }
+  ],
+  "assessments": [
+    {
+      "id": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+      "name": "Risk Management Maturity Self-Assessment",
+      "description": "Complete structured seed generated from XLSX workbook",
+      "type": "Maturity",
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null,
+      "focusAreas": [
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "9f9ee2fd-032a-41a4-abb0-60358dcd6d35",
+          "order": 1,
+          "focusArea": {
+            "id": "9f9ee2fd-032a-41a4-abb0-60358dcd6d35",
+            "name": "4.1.1.         Objective setting",
+            "description": "",
+            "order": 1,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "002bb2bc-40c3-4108-afed-044d4ad63f8c"
+              },
+              {
+                "id": "9451a822-931b-4c1e-8686-02bbb816d707"
+              },
+              {
+                "id": "84f5ce23-dcc2-46b4-8d5f-e9fe3a1fd449"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "002bb2bc-40c3-4108-afed-044d4ad63f8c"
+            },
+            {
+              "id": "9451a822-931b-4c1e-8686-02bbb816d707"
+            },
+            {
+              "id": "84f5ce23-dcc2-46b4-8d5f-e9fe3a1fd449"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+          "order": 2,
+          "focusArea": {
+            "id": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+            "name": "4.1.2.     Risk Management Policy.",
+            "description": "",
+            "order": 2,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "5a7bfe0b-1533-4c2f-bf33-751b5bbb69aa"
+              },
+              {
+                "id": "376f86f3-51b9-4336-a77e-f37e4f0ce53a"
+              },
+              {
+                "id": "4244eb1c-7d3e-4fdf-ab94-3e2e03c04b75"
+              },
+              {
+                "id": "c8690b82-6cf5-4fc4-99e2-aaffbebe2780"
+              },
+              {
+                "id": "6285a148-defb-4e26-891f-b0c20056c1fb"
+              },
+              {
+                "id": "2a6f3bdd-12fe-4bc7-9a56-78e80f9aefe4"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "5a7bfe0b-1533-4c2f-bf33-751b5bbb69aa"
+            },
+            {
+              "id": "376f86f3-51b9-4336-a77e-f37e4f0ce53a"
+            },
+            {
+              "id": "4244eb1c-7d3e-4fdf-ab94-3e2e03c04b75"
+            },
+            {
+              "id": "c8690b82-6cf5-4fc4-99e2-aaffbebe2780"
+            },
+            {
+              "id": "6285a148-defb-4e26-891f-b0c20056c1fb"
+            },
+            {
+              "id": "2a6f3bdd-12fe-4bc7-9a56-78e80f9aefe4"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "dd2fdf90-120f-4df4-9917-d7caa1a33aa9",
+          "order": 3,
+          "focusArea": {
+            "id": "dd2fdf90-120f-4df4-9917-d7caa1a33aa9",
+            "name": "4.1.3.     Risk Management Strategy and Implementation Plan",
+            "description": "",
+            "order": 3,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "3db4cfb3-9208-4ec3-a558-bf3703f86aa9"
+              },
+              {
+                "id": "47f89594-a2a0-42a8-bce8-d3831b3b5a5d"
+              },
+              {
+                "id": "956406f5-9fda-42a5-87ec-8c927e76fa7c"
+              },
+              {
+                "id": "73c2fd5a-c86e-447c-a36d-910897bce179"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "3db4cfb3-9208-4ec3-a558-bf3703f86aa9"
+            },
+            {
+              "id": "47f89594-a2a0-42a8-bce8-d3831b3b5a5d"
+            },
+            {
+              "id": "956406f5-9fda-42a5-87ec-8c927e76fa7c"
+            },
+            {
+              "id": "73c2fd5a-c86e-447c-a36d-910897bce179"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "1708fdef-f051-48ae-9ee1-b89bca2cc7b3",
+          "order": 4,
+          "focusArea": {
+            "id": "1708fdef-f051-48ae-9ee1-b89bca2cc7b3",
+            "name": "4.1.4         Risk Appetite and Tolerance Statement must be approved.",
+            "description": "",
+            "order": 4,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "654af97c-b390-494f-9697-9615620a6f94"
+              },
+              {
+                "id": "1a37c44d-44e9-46a8-b078-b0dd9c3944c0"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "654af97c-b390-494f-9697-9615620a6f94"
+            },
+            {
+              "id": "1a37c44d-44e9-46a8-b078-b0dd9c3944c0"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+          "order": 5,
+          "focusArea": {
+            "id": "00e13f60-7374-46c8-9627-fe01c701934d",
+            "name": "4.1.5.         Risk Management Integration",
+            "description": "",
+            "order": 5,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "7341a269-f519-4a87-bbdf-6b682aa38c2b"
+              },
+              {
+                "id": "acb5da49-29d5-48a3-ad39-216f577ef73e"
+              },
+              {
+                "id": "22db344c-7bc4-45a4-817a-27eba5be8e16"
+              },
+              {
+                "id": "dfaf917a-ff84-4190-97c5-5f06f26a6d12"
+              },
+              {
+                "id": "6df3ae07-9611-4ffb-8d08-c7ea40bc889f"
+              },
+              {
+                "id": "dbf3b42a-27bf-4448-8d52-03daa28effbc"
+              },
+              {
+                "id": "214d1172-971d-48c8-b6a0-0d7135a3a9f2"
+              },
+              {
+                "id": "4a95b467-ecd6-429d-b394-9a07404888cd"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "7341a269-f519-4a87-bbdf-6b682aa38c2b"
+            },
+            {
+              "id": "acb5da49-29d5-48a3-ad39-216f577ef73e"
+            },
+            {
+              "id": "22db344c-7bc4-45a4-817a-27eba5be8e16"
+            },
+            {
+              "id": "dfaf917a-ff84-4190-97c5-5f06f26a6d12"
+            },
+            {
+              "id": "6df3ae07-9611-4ffb-8d08-c7ea40bc889f"
+            },
+            {
+              "id": "dbf3b42a-27bf-4448-8d52-03daa28effbc"
+            },
+            {
+              "id": "214d1172-971d-48c8-b6a0-0d7135a3a9f2"
+            },
+            {
+              "id": "4a95b467-ecd6-429d-b394-9a07404888cd"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+          "order": 6,
+          "focusArea": {
+            "id": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+            "name": "4.1.6.         Risk management roles and responsibilities must be assigned throughout the Department.",
+            "description": "",
+            "order": 6,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "6aa4cf81-e610-4960-81bc-c942d9ffcaf7"
+              },
+              {
+                "id": "f3104014-71ea-48b2-8ce9-a66ba8d4b2a0"
+              },
+              {
+                "id": "1875c28b-ab1e-4980-b2d2-7511a1426779"
+              },
+              {
+                "id": "a309626b-2379-447f-ab3d-f98ec8459ba0"
+              },
+              {
+                "id": "3fda8de1-697f-4799-8f94-0de765aec5e8"
+              },
+              {
+                "id": "2ad0f8c4-f389-4f65-b56b-2212436e6f38"
+              },
+              {
+                "id": "3cac20eb-f752-4d3b-9ec4-b0c2eb435f2c"
+              },
+              {
+                "id": "6f2f0398-02ae-4d58-bf46-7b99d57f9321"
+              },
+              {
+                "id": "15da48bc-00d2-4fcb-95a9-d90142f66dc1"
+              },
+              {
+                "id": "96ba1d6a-5f00-400f-a314-aa4a48d3a80c"
+              },
+              {
+                "id": "6681f446-6932-40eb-b7b4-0f9ea79e7500"
+              },
+              {
+                "id": "0cf82dac-c60f-40c5-8d59-6bf2968e92fb"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "6aa4cf81-e610-4960-81bc-c942d9ffcaf7"
+            },
+            {
+              "id": "f3104014-71ea-48b2-8ce9-a66ba8d4b2a0"
+            },
+            {
+              "id": "1875c28b-ab1e-4980-b2d2-7511a1426779"
+            },
+            {
+              "id": "a309626b-2379-447f-ab3d-f98ec8459ba0"
+            },
+            {
+              "id": "3fda8de1-697f-4799-8f94-0de765aec5e8"
+            },
+            {
+              "id": "2ad0f8c4-f389-4f65-b56b-2212436e6f38"
+            },
+            {
+              "id": "3cac20eb-f752-4d3b-9ec4-b0c2eb435f2c"
+            },
+            {
+              "id": "6f2f0398-02ae-4d58-bf46-7b99d57f9321"
+            },
+            {
+              "id": "15da48bc-00d2-4fcb-95a9-d90142f66dc1"
+            },
+            {
+              "id": "96ba1d6a-5f00-400f-a314-aa4a48d3a80c"
+            },
+            {
+              "id": "6681f446-6932-40eb-b7b4-0f9ea79e7500"
+            },
+            {
+              "id": "0cf82dac-c60f-40c5-8d59-6bf2968e92fb"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "f1a60d8e-909d-4eae-9703-cf0c128251c4",
+          "order": 7,
+          "focusArea": {
+            "id": "f1a60d8e-909d-4eae-9703-cf0c128251c4",
+            "name": "4.1.7.       Enterprise-Wide Risk Management Function.",
+            "description": "",
+            "order": 7,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "6ee40b53-88cf-42c7-9473-b8b08fa61fe4"
+              },
+              {
+                "id": "168fe597-8b09-4b92-881e-40fd6209b8ad"
+              },
+              {
+                "id": "dad65ca8-1cd2-4f8f-8378-32190b292463"
+              },
+              {
+                "id": "32db43a6-2ba9-4658-b66f-008db0e881c4"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "6ee40b53-88cf-42c7-9473-b8b08fa61fe4"
+            },
+            {
+              "id": "168fe597-8b09-4b92-881e-40fd6209b8ad"
+            },
+            {
+              "id": "dad65ca8-1cd2-4f8f-8378-32190b292463"
+            },
+            {
+              "id": "32db43a6-2ba9-4658-b66f-008db0e881c4"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+          "order": 8,
+          "focusArea": {
+            "id": "084b2789-1e49-45ba-bd67-df44268be2dd",
+            "name": "B.            Risk Management Function.",
+            "description": "",
+            "order": 8,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "98880457-8802-4e72-b537-0b8f0b047357"
+              },
+              {
+                "id": "4195bb11-4fa1-4e57-b0ab-c19bb9566da0"
+              },
+              {
+                "id": "2e9c9a4c-600b-424d-95ee-224d00d4db26"
+              },
+              {
+                "id": "b4244852-aeef-42da-9c94-00ccad5d6b80"
+              },
+              {
+                "id": "cbb78b9c-2c72-4457-b054-42b8b6925559"
+              },
+              {
+                "id": "9bec71df-554f-4803-a9c9-f098a6f24823"
+              },
+              {
+                "id": "593c9668-7c8d-44c2-b060-2606f40ccc70"
+              },
+              {
+                "id": "40f532df-ccff-4620-9477-6b476e138bb0"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "98880457-8802-4e72-b537-0b8f0b047357"
+            },
+            {
+              "id": "4195bb11-4fa1-4e57-b0ab-c19bb9566da0"
+            },
+            {
+              "id": "2e9c9a4c-600b-424d-95ee-224d00d4db26"
+            },
+            {
+              "id": "b4244852-aeef-42da-9c94-00ccad5d6b80"
+            },
+            {
+              "id": "cbb78b9c-2c72-4457-b054-42b8b6925559"
+            },
+            {
+              "id": "9bec71df-554f-4803-a9c9-f098a6f24823"
+            },
+            {
+              "id": "593c9668-7c8d-44c2-b060-2606f40ccc70"
+            },
+            {
+              "id": "40f532df-ccff-4620-9477-6b476e138bb0"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+          "order": 9,
+          "focusArea": {
+            "id": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+            "name": "4.1.8.           Internal Risk Management Committee (RMC).",
+            "description": "",
+            "order": 9,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "bcadd816-6034-45d2-8cfb-8dd92af068f4"
+              },
+              {
+                "id": "83172cb3-6deb-41cd-ac4c-8e7f0cbde8c0"
+              },
+              {
+                "id": "b95b2ddb-04ee-44b8-bcac-a3c7bf48d0da"
+              },
+              {
+                "id": "a9231e6d-b534-41fa-bb21-db201cd595ed"
+              },
+              {
+                "id": "13c0fa1d-29b0-450e-9cff-2ef235969d49"
+              },
+              {
+                "id": "9e11349e-32a9-4301-801d-fbed6a96deca"
+              },
+              {
+                "id": "37a58223-f568-4c32-a303-35276177a2be"
+              },
+              {
+                "id": "003c4e4f-2dac-4744-bf91-8be123c123db"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "bcadd816-6034-45d2-8cfb-8dd92af068f4"
+            },
+            {
+              "id": "83172cb3-6deb-41cd-ac4c-8e7f0cbde8c0"
+            },
+            {
+              "id": "b95b2ddb-04ee-44b8-bcac-a3c7bf48d0da"
+            },
+            {
+              "id": "a9231e6d-b534-41fa-bb21-db201cd595ed"
+            },
+            {
+              "id": "13c0fa1d-29b0-450e-9cff-2ef235969d49"
+            },
+            {
+              "id": "9e11349e-32a9-4301-801d-fbed6a96deca"
+            },
+            {
+              "id": "37a58223-f568-4c32-a303-35276177a2be"
+            },
+            {
+              "id": "003c4e4f-2dac-4744-bf91-8be123c123db"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "a1918f57-c0af-41f4-8c6a-dd363927a9bf",
+          "order": 10,
+          "focusArea": {
+            "id": "a1918f57-c0af-41f4-8c6a-dd363927a9bf",
+            "name": "4.1.9.            Risk Management Training",
+            "description": "",
+            "order": 10,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "5d80c8be-2766-495c-9e4e-a75542e69ef1"
+              },
+              {
+                "id": "41b321a2-0752-49c3-ba04-52ef52db0350"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "5d80c8be-2766-495c-9e4e-a75542e69ef1"
+            },
+            {
+              "id": "41b321a2-0752-49c3-ba04-52ef52db0350"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "af65e246-33d6-49e4-8160-b255b6f976b3",
+          "order": 11,
+          "focusArea": {
+            "id": "af65e246-33d6-49e4-8160-b255b6f976b3",
+            "name": "4.1.10.         Risk Management Funding",
+            "description": "",
+            "order": 11,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "fa6c9d80-c7f3-4dc1-9326-7278b7f48dfc"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "fa6c9d80-c7f3-4dc1-9326-7278b7f48dfc"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "a25a3f84-f38a-4e57-a55b-4c11067336ef",
+          "order": 12,
+          "focusArea": {
+            "id": "a25a3f84-f38a-4e57-a55b-4c11067336ef",
+            "name": "4.2                     Risk Register Development and Maintenance",
+            "description": "",
+            "order": 12,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "d9a268d2-5932-41a1-a873-36f93d0a60d5"
+              },
+              {
+                "id": "2d2a66ea-db64-44f8-88b3-ac5584bb979b"
+              },
+              {
+                "id": "ee8f8dc7-a07f-4ae8-b8ae-0a4b2dd39d13"
+              },
+              {
+                "id": "d45a5fca-2d3f-4c20-9cc7-8e6dec6a8eb4"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "d9a268d2-5932-41a1-a873-36f93d0a60d5"
+            },
+            {
+              "id": "2d2a66ea-db64-44f8-88b3-ac5584bb979b"
+            },
+            {
+              "id": "ee8f8dc7-a07f-4ae8-b8ae-0a4b2dd39d13"
+            },
+            {
+              "id": "d45a5fca-2d3f-4c20-9cc7-8e6dec6a8eb4"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+          "order": 13,
+          "focusArea": {
+            "id": "8123a81b-500c-45ab-818c-a434f251c2a1",
+            "name": "4.2.2.             Risk assessment process - Risks must be adequately identified, assessed, treated, monitored and reported in a systematic, structured and timely manner, using the following seven-stage process:",
+            "description": "",
+            "order": 13,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "3c06280d-f86c-4246-9055-c127482ce18d"
+              },
+              {
+                "id": "e1419816-90c1-4e58-a9c7-e7c9d790dc5a"
+              },
+              {
+                "id": "286b2f05-763c-4f4d-a252-a105e3d76d65"
+              },
+              {
+                "id": "ef442902-07a0-4f2f-b855-a01e6fcc1d61"
+              },
+              {
+                "id": "67d7de15-001b-4c49-be5b-e83b42046b7e"
+              },
+              {
+                "id": "0ccda0dd-da5f-4c1a-96bf-3aa587036c4f"
+              },
+              {
+                "id": "1e7cc474-5046-463e-b653-b73cef7427ea"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "3c06280d-f86c-4246-9055-c127482ce18d"
+            },
+            {
+              "id": "e1419816-90c1-4e58-a9c7-e7c9d790dc5a"
+            },
+            {
+              "id": "286b2f05-763c-4f4d-a252-a105e3d76d65"
+            },
+            {
+              "id": "ef442902-07a0-4f2f-b855-a01e6fcc1d61"
+            },
+            {
+              "id": "67d7de15-001b-4c49-be5b-e83b42046b7e"
+            },
+            {
+              "id": "0ccda0dd-da5f-4c1a-96bf-3aa587036c4f"
+            },
+            {
+              "id": "1e7cc474-5046-463e-b653-b73cef7427ea"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "316b35d5-f51d-4b3f-8803-8f3a24f9c68d",
+          "order": 14,
+          "focusArea": {
+            "id": "316b35d5-f51d-4b3f-8803-8f3a24f9c68d",
+            "name": "4.2.3.       Risk Assessment - This focus area is concerned with systematic quantification of levels of risks to assist with prioritizing the most important risks.",
+            "description": "",
+            "order": 14,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "83c257c2-c8dd-4621-861b-092fe07917ba"
+              },
+              {
+                "id": "95173046-78d6-427d-9f0c-b864e9bfa110"
+              },
+              {
+                "id": "c06d5c1b-5805-4185-a902-de20580c7c90"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "83c257c2-c8dd-4621-861b-092fe07917ba"
+            },
+            {
+              "id": "95173046-78d6-427d-9f0c-b864e9bfa110"
+            },
+            {
+              "id": "c06d5c1b-5805-4185-a902-de20580c7c90"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "7a109fdc-8d37-42f8-9755-65c148c63aa2",
+          "order": 15,
+          "focusArea": {
+            "id": "7a109fdc-8d37-42f8-9755-65c148c63aa2",
+            "name": "4.2.4          Risk Register Review and Update - Risk registers must be reviewed and updated on a regular basis.",
+            "description": "",
+            "order": 15,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "4fb02018-756e-4d91-91f0-0ff285d6848e"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "4fb02018-756e-4d91-91f0-0ff285d6848e"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+          "order": 16,
+          "focusArea": {
+            "id": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+            "name": "4.3                 Information, Communication, Reporting, Evaluation & Monitoring",
+            "description": "",
+            "order": 16,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "b008c123-43c9-4a88-bab1-73a596fde192"
+              },
+              {
+                "id": "e8ca9f4a-c11d-4b15-98e4-e0a0718ac547"
+              },
+              {
+                "id": "4c67185d-01ba-4aa5-8865-1d4dfedabc21"
+              },
+              {
+                "id": "cf1508d5-3c77-4ef1-af37-5be95238100f"
+              },
+              {
+                "id": "9c8db61b-cdf9-433c-9365-d76b09db0235"
+              },
+              {
+                "id": "2256e7ef-293a-4749-9535-1b971a5f237a"
+              },
+              {
+                "id": "8076699e-4fdd-4132-999b-6328394d5b37"
+              },
+              {
+                "id": "f3afea83-09ac-4a9c-8f36-b1436a53ccdd"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "b008c123-43c9-4a88-bab1-73a596fde192"
+            },
+            {
+              "id": "e8ca9f4a-c11d-4b15-98e4-e0a0718ac547"
+            },
+            {
+              "id": "4c67185d-01ba-4aa5-8865-1d4dfedabc21"
+            },
+            {
+              "id": "cf1508d5-3c77-4ef1-af37-5be95238100f"
+            },
+            {
+              "id": "9c8db61b-cdf9-433c-9365-d76b09db0235"
+            },
+            {
+              "id": "2256e7ef-293a-4749-9535-1b971a5f237a"
+            },
+            {
+              "id": "8076699e-4fdd-4132-999b-6328394d5b37"
+            },
+            {
+              "id": "f3afea83-09ac-4a9c-8f36-b1436a53ccdd"
+            }
+          ]
+        },
+        {
+          "assessmentId": "30e466b7-5b75-4236-8864-7a47b5dd6510",
+          "focusAreaId": "aa96a574-1fc9-4842-b9a6-f81992cc4c18",
+          "order": 17,
+          "focusArea": {
+            "id": "aa96a574-1fc9-4842-b9a6-f81992cc4c18",
+            "name": "4.3.1          Risk management information must be stored, through an approved risk management information system.",
+            "description": "",
+            "order": 17,
+            "isActive": true,
+            "createdAt": "2026-06-02T04:49:12.178143+00:00",
+            "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+            "deletedAt": null,
+            "standards": [
+              {
+                "id": "7eb7b0b0-0b03-4970-aa3c-6b74d3de092c"
+              }
+            ]
+          },
+          "standards": [
+            {
+              "id": "7eb7b0b0-0b03-4970-aa3c-6b74d3de092c"
+            }
+          ]
+        }
+      ],
+      "questions": [],
+      "categories": []
+    }
+  ],
+  "focusAreas": [
+    {
+      "id": "9f9ee2fd-032a-41a4-abb0-60358dcd6d35",
+      "name": "4.1.1.         Objective setting",
+      "description": "",
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+      "name": "4.1.2.     Risk Management Policy.",
+      "description": "",
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "dd2fdf90-120f-4df4-9917-d7caa1a33aa9",
+      "name": "4.1.3.     Risk Management Strategy and Implementation Plan",
+      "description": "",
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "1708fdef-f051-48ae-9ee1-b89bca2cc7b3",
+      "name": "4.1.4         Risk Appetite and Tolerance Statement must be approved.",
+      "description": "",
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "name": "4.1.5.         Risk Management Integration",
+      "description": "",
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "name": "4.1.6.         Risk management roles and responsibilities must be assigned throughout the Department.",
+      "description": "",
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "f1a60d8e-909d-4eae-9703-cf0c128251c4",
+      "name": "4.1.7.       Enterprise-Wide Risk Management Function.",
+      "description": "",
+      "order": 7,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "name": "B.            Risk Management Function.",
+      "description": "",
+      "order": 8,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "name": "4.1.8.           Internal Risk Management Committee (RMC).",
+      "description": "",
+      "order": 9,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "a1918f57-c0af-41f4-8c6a-dd363927a9bf",
+      "name": "4.1.9.            Risk Management Training",
+      "description": "",
+      "order": 10,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "af65e246-33d6-49e4-8160-b255b6f976b3",
+      "name": "4.1.10.         Risk Management Funding",
+      "description": "",
+      "order": 11,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "a25a3f84-f38a-4e57-a55b-4c11067336ef",
+      "name": "4.2                     Risk Register Development and Maintenance",
+      "description": "",
+      "order": 12,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "name": "4.2.2.             Risk assessment process - Risks must be adequately identified, assessed, treated, monitored and reported in a systematic, structured and timely manner, using the following seven-stage process:",
+      "description": "",
+      "order": 13,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "316b35d5-f51d-4b3f-8803-8f3a24f9c68d",
+      "name": "4.2.3.       Risk Assessment - This focus area is concerned with systematic quantification of levels of risks to assist with prioritizing the most important risks.",
+      "description": "",
+      "order": 14,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "7a109fdc-8d37-42f8-9755-65c148c63aa2",
+      "name": "4.2.4          Risk Register Review and Update - Risk registers must be reviewed and updated on a regular basis.",
+      "description": "",
+      "order": 15,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "name": "4.3                 Information, Communication, Reporting, Evaluation & Monitoring",
+      "description": "",
+      "order": 16,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "aa96a574-1fc9-4842-b9a6-f81992cc4c18",
+      "name": "4.3.1          Risk management information must be stored, through an approved risk management information system.",
+      "description": "",
+      "order": 17,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    }
+  ],
+  "standards": [
+    {
+      "id": "002bb2bc-40c3-4108-afed-044d4ad63f8c",
+      "focusAreaId": "9f9ee2fd-032a-41a4-abb0-60358dcd6d35",
+      "text": "a) Is the strategic planning process properly documented, formally approved, and aligned with the guidelines of National Treasury and the Department of Planning, Monitoring and Evaluation (DPME",
+      "guideline": "The strategic planning process must comply with National Treasury and DPME frameworks, be clearly documented, formally approved, aligned with national priorities, and include transparency, accountability, and regular reviews.",
+      "poe": "",
+      "compliance": "Yes",
+      "score": 5,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "9451a822-931b-4c1e-8686-02bbb816d707",
+      "focusAreaId": "9f9ee2fd-032a-41a4-abb0-60358dcd6d35",
+      "text": "b)  Is there a documented process to ensure that objectives at the business unit, project, and process levels are effectively developed and communicated throughout the Department?",
+      "guideline": "A documented process helps align departmental activities with strategic goals, ensures clarity of purpose across all levels, and facilitates consistent communication and accountability.",
+      "poe": "",
+      "compliance": "Partially compliant",
+      "score": 4,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "84f5ce23-dcc2-46b4-8d5f-e9fe3a1fd449",
+      "focusAreaId": "9f9ee2fd-032a-41a4-abb0-60358dcd6d35",
+      "text": "c)    Does the process include an evaluation of risks from both perspectives: (1) the possibility that the strategy may not align with the entity\u2019s mission, vision, risk appetite, and core values, and (2) the potential implications of the chosen strategy",
+      "guideline": "To ensure that strategic decisions are evaluated for alignment with the entity's foundational principles and for potential implications on the organization\u2019s objectives and risk profile.",
+      "poe": "",
+      "compliance": "No",
+      "score": 0,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "5a7bfe0b-1533-4c2f-bf33-751b5bbb69aa",
+      "focusAreaId": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+      "text": "a)    Has the Risk Management Policy been approved by the Accounting Officer/Authority within the last three years, or updated as circumstances dictate",
+      "guideline": "The Risk Management Policy formalises the institution's commitment to risk management, consistent with applicable legislation and sound business rationale.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "376f86f3-51b9-4336-a77e-f37e4f0ce53a",
+      "focusAreaId": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+      "text": "b)    Has the Department\u2019s risk management philosophy been clearly communicated in a way that demonstrates how risk management supports the achievement of the Department\u2019s objectives",
+      "guideline": "Every official should be aware of the institution's commitment and approach to risk management and their specific role within that context. The policy should formally be communicated to Audit & Risk Committee and all officials via various channels e.g. intranet/ notification/ performance agreements.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "4244eb1c-7d3e-4fdf-ab94-3e2e03c04b75",
+      "focusAreaId": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+      "text": "c)    Has the Department incorporated a clear commitment statement to implement and maintain an effective, efficient, and transparent system of risk management",
+      "guideline": "The Department is required to formally commit, through its strategic and operational frameworks, to the implementation and ongoing maintenance of an effective, efficient, and transparent system of risk management, in line with applicable legislative, regulatory, and governance requirements.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "c8690b82-6cf5-4fc4-99e2-aaffbebe2780",
+      "focusAreaId": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+      "text": "d)    Does the Department clearly define \u201crisk\u201d and \u201crisk management\u201d within its specific context, and explicitly articulate the objectives of its risk management framework",
+      "guideline": "The Department must define risk and risk management in its own context and clearly state the objectives of its risk management efforts.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "6285a148-defb-4e26-891f-b0c20056c1fb",
+      "focusAreaId": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+      "text": "e)    Does the Department clearly outline its risk management approach and reference the detailed procedures that support this approach",
+      "guideline": "The Department\u2019s risk management approach must be clearly outlined, including a reference to detailed procedures that support and implement the stated approach effectively.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "2a6f3bdd-12fe-4bc7-9a56-78e80f9aefe4",
+      "focusAreaId": "2067ccc7-3020-46e5-921b-dd6f07ce6e3f",
+      "text": "f)    Has the Department identified and clearly defined the key risk management role players and their specific responsibilities",
+      "guideline": "The Department should clearly identify all key risk management roles and define their specific responsibilities. These roles must be documented, communicated, and aligned with the organizational structure. Accountability levels should be specified, and the roles reviewed regularly to stay up-to-date",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "3db4cfb3-9208-4ec3-a558-bf3703f86aa9",
+      "focusAreaId": "dd2fdf90-120f-4df4-9917-d7caa1a33aa9",
+      "text": "a)    Has the risk management implementation plan been approved by the Accounting Officer within one month of the approval of the risk policy, and is it reviewed on an annual basis?",
+      "guideline": "The risk management strategy must clearly articulate the approach for achieving the Department\u2019s risk management objectives. It should outline how the Department intends to enhance its risk management maturity, specifically in relation to risk governance structures and the breadth of risk assessment coverage. This should be informed by the findings of a recent risk maturity assessment and/or audit review, and include measures to address identified gaps and strengthen the overall risk management framework.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "47f89594-a2a0-42a8-bce8-d3831b3b5a5d",
+      "focusAreaId": "dd2fdf90-120f-4df4-9917-d7caa1a33aa9",
+      "text": "b)    Has the Department's strategy clearly outlined how risk management objectives will be achieved and how risk management maturity will be enhanced, particularly with respect to governance and risk assessment coverage, using the outcomes of a risk maturity or audit review",
+      "guideline": "The document must be approved by the Accounting Officer within one month following the approval of the risk policy. Additionally, it should undergo a formal review on an annual basis to ensure continued relevance and effectiveness. Proper documentation of both the approval and subsequent reviews must be maintained to demonstrate compliance. The roles and responsibilities regarding approval and review should be clearly defined, with mechanisms in place to address any delays or non-compliance.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "956406f5-9fda-42a5-87ec-8c927e76fa7c",
+      "focusAreaId": "dd2fdf90-120f-4df4-9917-d7caa1a33aa9",
+      "text": "c)   Has the Department\u2019s risk management strategy and implementation plan aligned with the Risk Management Policy been reviewed and approved annually by the Risk Management Committee and the relevant Cluster Audit and Risk Committee?",
+      "guideline": "Annual review and approval of the risk management strategy and implementation plan ensures alignment with institutional objectives, promotes accountability, and supports continuous improvement in managing risks effectively.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "73c2fd5a-c86e-447c-a36d-910897bce179",
+      "focusAreaId": "dd2fdf90-120f-4df4-9917-d7caa1a33aa9",
+      "text": "d)     Is a periodic progress report on the implementation of the risk management strategy submitted to the Risk Committee and the relevant Cluster Audit and Risk Committee on a quarterly basi",
+      "guideline": "The department must ensure that quarterly progress reports are compiled and submitted to both the internal Risk Committee and the Cluster Audit and Risk Committee to monitor the implementation of the risk management strategy effectively.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "654af97c-b390-494f-9697-9615620a6f94",
+      "focusAreaId": "1708fdef-f051-48ae-9ee1-b89bca2cc7b3",
+      "text": "a)   Has the Department developed, implemented, and communicated a risk appetite and tolerance statement across all levels of the organization?",
+      "guideline": "A clearly communicated risk appetite and tolerance statement ensures that all levels of the organization understand the boundaries within which risks should be managed, supporting consistent decision-making aligned with strategic objectives.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "1a37c44d-44e9-46a8-b078-b0dd9c3944c0",
+      "focusAreaId": "1708fdef-f051-48ae-9ee1-b89bca2cc7b3",
+      "text": "b)    Has the Department clearly outlined the amount and types of risks it is willing to assume in pursuit of its objectives?",
+      "guideline": "Defining acceptable risk levels helps the organization balance risk and opportunity, enabling informed choices that align with its mission and values.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "7341a269-f519-4a87-bbdf-6b682aa38c2b",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "Has risk management been effectively integrated into the Department\u2019s key processes, including decision-making, policy development, internal audit, performance management, project management, strategic planning, and budgeting",
+      "guideline": "Risk management should be embedded across all key Department processes to ensure its effectiveness. This includes integrating risk considerations into decision-making, policy development, internal audits, performance management, project management, strategic planning, and budgeting. Doing so helps identify, assess, and mitigate risks consistently throughout the Department\u2019s activities.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "acb5da49-29d5-48a3-ad39-216f577ef73e",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "a)      Decision-making/approval process",
+      "guideline": "Decision-making and approvals (e.g., risk-informed decisions),",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "22db344c-7bc4-45a4-817a-27eba5be8e16",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "b)      Policy development and monitoring",
+      "guideline": "Policy development and monitoring (e.g., embedding risk considerations),",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "dfaf917a-ff84-4190-97c5-5f06f26a6d12",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "c)       Internal Audit",
+      "guideline": "Internal Audit (e.g., risk-based audit planning),",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "6df3ae07-9611-4ffb-8d08-c7ea40bc889f",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "d)      Performance Management",
+      "guideline": "Performance Management (e.g., linking risk with KPIs),",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "dbf3b42a-27bf-4448-8d52-03daa28effbc",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "e)      Project Management",
+      "guideline": "Project Management (e.g., project risk registers),",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "214d1172-971d-48c8-b6a0-0d7135a3a9f2",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "f)        Strategic Planning",
+      "guideline": "Strategic Planning (e.g., scenario analysis), and",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 7,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "4a95b467-ecd6-429d-b394-9a07404888cd",
+      "focusAreaId": "00e13f60-7374-46c8-9627-fe01c701934d",
+      "text": "g)      Budgeting",
+      "guideline": "Budgeting (e.g., allocating resources based on risk exposure).",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 8,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "6aa4cf81-e610-4960-81bc-c942d9ffcaf7",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "Has the Accounting Officer/Authority delegated risk management roles and responsibilities in a way that ensures effective coordination and synergy of risk management activities?\nDoes the Department have a formalised risk management structure that includes the following role players:",
+      "guideline": "Clear delegation of roles and responsibilities promotes accountability, enhances coordination, and ensures that risk management activities are integrated across the Department.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "f3104014-71ea-48b2-8ce9-a66ba8d4b2a0",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "a)        Executive Authority",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "1875c28b-ab1e-4980-b2d2-7511a1426779",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "b)        Accounting Officer",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "a309626b-2379-447f-ab3d-f98ec8459ba0",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "c)        Cluster Audit and Risk Committee (CARC)",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "3fda8de1-697f-4799-8f94-0de765aec5e8",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "d)        EXCO",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "2ad0f8c4-f389-4f65-b56b-2212436e6f38",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "e)        Business Unit Leaders/Programme Managers",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "3cac20eb-f752-4d3b-9ec4-b0c2eb435f2c",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "f)        Internal Risk Management Committee (IRMC)",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 7,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "6f2f0398-02ae-4d58-bf46-7b99d57f9321",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "g)        Risk Committee Sub-Committees inclusive of OHS, IT, BCM, Ethics, Loss Control, and Compliance Monitoring",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 8,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "15da48bc-00d2-4fcb-95a9-d90142f66dc1",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "h)        Risk Champions",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 9,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "96ba1d6a-5f00-400f-a314-aa4a48d3a80c",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "j)        Risk Co-ordinator",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 10,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "6681f446-6932-40eb-b7b4-0f9ea79e7500",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "k)     Chief Risk Officer",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 11,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "0cf82dac-c60f-40c5-8d59-6bf2968e92fb",
+      "focusAreaId": "eb359fc8-ff47-4796-bbbb-975c7246cfaa",
+      "text": "l)   Other Risk Management Functions",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 12,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "6ee40b53-88cf-42c7-9473-b8b08fa61fe4",
+      "focusAreaId": "f1a60d8e-909d-4eae-9703-cf0c128251c4",
+      "text": "For this area we tested whether the Risk Management function is adequately resourced in terms of the risk management function structure and reporting lines. The following criteria were used: A Chief Risk Officer/CAE",
+      "guideline": "",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "168fe597-8b09-4b92-881e-40fd6209b8ad",
+      "focusAreaId": "f1a60d8e-909d-4eae-9703-cf0c128251c4",
+      "text": "a)      Is the position of the Chief Risk Officer graded at salary level 13?",
+      "guideline": "The incumbement occupying the position of the CRO should be apppointed at salary level 13 to ensure alignment with organisational standards for strategic roles.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "dad65ca8-1cd2-4f8f-8378-32190b292463",
+      "focusAreaId": "f1a60d8e-909d-4eae-9703-cf0c128251c4",
+      "text": "b)      Does the Chief Risk Officer report directly to the Accounting Officer?",
+      "guideline": "Reporting directly to the Accounting officer ensures independence and authority in risk oversight.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "32db43a6-2ba9-4658-b66f-008db0e881c4",
+      "focusAreaId": "f1a60d8e-909d-4eae-9703-cf0c128251c4",
+      "text": "c)       Do the Chief Risk Officer and their staff possess the necessary skills, competencies and attitudes to execute their risk management functions?",
+      "guideline": "The effectiveness of risk management function depends on the qualifications, experience, and behavioural attributes of the Chief Risk Officer and their team. They should demostrate technical expertise, strategic thinking, and a proactive risk culture.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "98880457-8802-4e72-b537-0b8f0b047357",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "a)      Does the Department have a risk management strategy (inclusive of the risk management vision) and implementation plan?",
+      "guideline": "A documented strategy and implementation plan ensures that risk management is aligned with the Department's objectives and is applied across all levels in the Department.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "4195bb11-4fa1-4e57-b0ab-c19bb9566da0",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "b)      Are enterprise-wide risk management principles promoted through formal communication and cooperation with other risk-related formations (e.g, OHS, business continuity, fraud management)?",
+      "guideline": "Integration with other risk related functions improves consistency, reduces duplication and enhances the overall risk cordination of the Department.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "2e9c9a4c-600b-424d-95ee-224d00d4db26",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "c)      Has the Department developed a risk management framework (based on the Provincial Risk Management Framework), including the risk policy, procedures, and risk appetite statement, in consultation with management?",
+      "guideline": "A customised framework ensures relevance and alignement with provincial standards, and it promotes ownership of the document.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "b4244852-aeef-42da-9c94-00ccad5d6b80",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "d)      Is management assisted in developing Departmental and business unit risk registers and associated action plans?",
+      "guideline": "The risk management function should actively support management in compiling comprehensive risk registers at both the departmental and business unit levels. This includes identifying risks, documenting them clearly, and developing corresponding action plans to address or mitigate those risks effectively. This collaborative approach ensures risks are managed consistently and proactively across the Department.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "cbb78b9c-2c72-4457-b054-42b8b6925559",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "e)      Are risk response plans monitored and validated for implementation?",
+      "guideline": "Ensure a formal process is in place to regularly monitor and validate that risk response plans are implemented on time and effectively. Identify and address any issues promptly, and provide regular updates to stakeholders. Use findings to improve future risk management actions.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "9bec71df-554f-4803-a9c9-f098a6f24823",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "f)        Are the results of risk assessments collated, aggregated, interpreted, and analyzed to extract risk intelligence for management reporting?",
+      "guideline": "Collect and combine risk assessment data systematically, interpret and analyze it to uncover key insights, and provide clear, actionable risk intelligence reports to management for informed decision-making.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "593c9668-7c8d-44c2-b060-2606f40ccc70",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "g)      Is risk management reporting facilitated for various stakeholders within and outside the Department?",
+      "guideline": "facilitate timely and accurate risk management reporting to all relevant stakeholders both within and outside the Department. Ensure that reports are clear, comprehensive, and tailored to the needs of each stakeholder group to support informed decision-making and accountability",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 7,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "40f532df-ccff-4620-9477-6b476e138bb0",
+      "focusAreaId": "084b2789-1e49-45ba-bd67-df44268be2dd",
+      "text": "h)      Are the Department\u2019s risk management policies communicated and is training and awareness facilitated throughout the Department?",
+      "guideline": "Ensure effective communication of the Department\u2019s risk management policies and actively facilitate training and awareness programs to promote risk management understanding throughout the Department.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 8,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "bcadd816-6034-45d2-8cfb-8dd92af068f4",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "a)      Does the Internal Risk Committee formally established with approved terms of reference and an annual work plan?",
+      "guideline": "A formally constituted committee provides a structured oversight and coordination of risk management activities.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "83172cb3-6deb-41cd-ac4c-8e7f0cbde8c0",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "b)      Are members appointed in writing and do they formally accept their appointments?",
+      "guideline": "Formal appointments clarify roles and responsibilities and ensure commitment to the committee\u2019s work.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "b95b2ddb-04ee-44b8-bcac-a3c7bf48d0da",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "c)       Are PIAS (RAS) and PIAS Assurance permanent invitees to the Committee?",
+      "guideline": "Committee members should be drawn from various parts of the Department to ensure broad representation. They must have a deep understanding of the Department\u2019s operations and be well-versed in risk management principles, enabling informed discussions and decisions",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "a9231e6d-b534-41fa-bb21-db201cd595ed",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "d)     Are committee members representative of the Department and knowledgeable about operations and risk management concepts?",
+      "guideline": "Committee members must be formally appointed, represent key areas of the Department, and have sufficient knowledge of departmental operations and risk management principles.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "13c0fa1d-29b0-450e-9cff-2ef235969d49",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "e)      Do members undergo induction and continuous (bi-annual) risk management training?",
+      "guideline": "Members of the Risk Management Committee must be formally inducted upon appointment and must participate in ongoing risk management training at least bi-annually to maintain and enhance their understanding of risk management principles and practices.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "9e11349e-32a9-4301-801d-fbed6a96deca",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "f)        Is the effectiveness of the Committee formally assessed annually?",
+      "guideline": "The Risk Management Committee must undergo a formal annual effectiveness assessment to ensure it is fulfilling its mandate, operating efficiently, and adding value to the Department\u2019s risk management processes. The assessment should be documented and include areas such as member performance, meeting quality, decision-making, and contribution to risk mitigation.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "37a58223-f568-4c32-a303-35276177a2be",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "g)      Does the Committee assess the effectiveness of the risk management function, and are OHS/IT/Ethics committee chairpersons invited to RMC meetings with standing agenda items?",
+      "guideline": "The Committee must assess the effectiveness of the risk management function, ensure key risk topics are reflected in the agenda, and include OHS, IT, and Ethics Committee chairpersons as standing invitees with dedicated agenda items.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 7,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "003c4e4f-2dac-4744-bf91-8be123c123db",
+      "focusAreaId": "0d8c44b9-f0d2-430f-9baf-1a63b6a0194d",
+      "text": "h)      Is the Committee\u2019s work supported by sub-committees (e.g., OHS, IT Steering, Ethics, business continuity) operating under formal terms of reference?",
+      "guideline": "The Committee\u2019s work must be supported by establishing sub-committees such as the Occupational Health and Safety (OHS), IT Steering, Ethics, and Business Continuity Steering Committees. These sub-committees must be formally constituted and must operate in accordance with approved Terms of Reference to ensure clarity of roles, accountability, and effective governance support",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 8,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "5d80c8be-2766-495c-9e4e-a75542e69ef1",
+      "focusAreaId": "a1918f57-c0af-41f4-8c6a-dd363927a9bf",
+      "text": "a)      Is training and support provided to all individuals involved in risk management to enable effective execution of responsibilities?",
+      "guideline": "Capacity building is essential for consistent and competent risk management across the Department.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "41b321a2-0752-49c3-ba04-52ef52db0350",
+      "focusAreaId": "a1918f57-c0af-41f4-8c6a-dd363927a9bf",
+      "text": "b)     Does the annual integrated risk management training plan developed and implemented based on a needs analysis?",
+      "guideline": "An annual integrated risk management training plan should be created and executed based on a thorough needs analysis. This plan must comprehensively cover essential topics such as risk management concepts, the risk management process, relevant policies and frameworks, fraud prevention strategies, and occupational health and safety requirements.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "fa6c9d80-c7f3-4dc1-9326-7278b7f48dfc",
+      "focusAreaId": "af65e246-33d6-49e4-8160-b255b6f976b3",
+      "text": "a)      Is an adequate budget and resources allocated to implement critical risk mitigation plans in line with approved treatment plans?",
+      "guideline": "Resource allocation reflects the Department\u2019s commitment to managing risks effectively.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "d9a268d2-5932-41a1-a873-36f93d0a60d5",
+      "focusAreaId": "a25a3f84-f38a-4e57-a55b-4c11067336ef",
+      "text": "a)     Are risk registers developed and maintained at both Departmental and business unit levels?",
+      "guideline": "Risk registers should be created and regularly updated both at the overall Departmental level and within individual business units to ensure comprehensive risk identification, tracking, and management.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "2d2a66ea-db64-44f8-88b3-ac5584bb979b",
+      "focusAreaId": "a25a3f84-f38a-4e57-a55b-4c11067336ef",
+      "text": "b)    Are project risk registers developed and maintained for key projects in line with the Department\u2019s project management methodology?",
+      "guideline": "Project risk registers must be consistently developed and updated for key projects following the Department\u2019s approved project management methodology to ensure effective identification, tracking, and mitigation of project risks",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "ee8f8dc7-a07f-4ae8-b8ae-0a4b2dd39d13",
+      "focusAreaId": "a25a3f84-f38a-4e57-a55b-4c11067336ef",
+      "text": "c)       Are various types of risks identified and included in Departmental, business unit, and project-level risk registers?",
+      "guideline": "A broad risk identification approach ensures that all relevant risk categories are considered.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "d45a5fca-2d3f-4c20-9cc7-8e6dec6a8eb4",
+      "focusAreaId": "a25a3f84-f38a-4e57-a55b-4c11067336ef",
+      "text": "d)      Do the risk registers include strategic, IT, OHS, business continuity, ethics, fraud, financial statement, supply chain management, and compliance risks?",
+      "guideline": "Inclusion of diverse risk types supports holistic risk management and aligns with governance expectations.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "3c06280d-f86c-4246-9055-c127482ce18d",
+      "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "text": "a)       Is there evidence of structured consultation and communication throughout the risk management process?",
+      "guideline": "Effective consultation and communication ensure stakeholder engagement, shared understanding of risks, and informed decision-making.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "e1419816-90c1-4e58-a9c7-e7c9d790dc5a",
+      "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "text": "b)       Is the context for risk management clearly established, including internal and external factors?",
+      "guideline": "Establishing context helps define the scope, criteria, and structure for managing risk and aligns it with organizational objectives.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "286b2f05-763c-4f4d-a252-a105e3d76d65",
+      "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "text": "c)       Are risks systematically identified across all relevant areas of the Department?",
+      "guideline": "Risk identification should be comprehensive and include input from various stakeholders to capture strategic, operational, and emerging risks.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "ef442902-07a0-4f2f-b855-a01e6fcc1d61",
+      "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "text": "d)      Are identified risks analyzed to determine their likelihood and impact?",
+      "guideline": "Risk analysis supports prioritization and informs the selection of appropriate risk responses.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "67d7de15-001b-4c49-be5b-e83b42046b7e",
+      "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "text": "e)       Are risks evaluated against defined criteria to determine their significance and need for treatment?",
+      "guideline": "Evaluation helps distinguish between acceptable and unacceptable risks and guides resource allocation.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "0ccda0dd-da5f-4c1a-96bf-3aa587036c4f",
+      "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "text": "f)       Are appropriate risk treatment strategies developed and implemented?",
+      "guideline": "Treatment strategies should be practical, cost-effective, and aligned with the Department\u2019s risk appetite.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "1e7cc474-5046-463e-b653-b73cef7427ea",
+      "focusAreaId": "8123a81b-500c-45ab-818c-a434f251c2a1",
+      "text": "g)       Is there ongoing monitoring and evaluation of the risk management process and outcomes?",
+      "guideline": "Monitoring ensures that risk responses remain effective and that new risks are identified and addressed promptly.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 7,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "83c257c2-c8dd-4621-861b-092fe07917ba",
+      "focusAreaId": "316b35d5-f51d-4b3f-8803-8f3a24f9c68d",
+      "text": "a)     Are a range of possible risk response strategies (avoid, treat, transfer, accept, exploit) identified and evaluated?",
+      "guideline": "Considering multiple response options ensures flexibility and effectiveness in managing different types of risks.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "95173046-78d6-427d-9f0c-b864e9bfa110",
+      "focusAreaId": "316b35d5-f51d-4b3f-8803-8f3a24f9c68d",
+      "text": "b)      Are risk response strategies selected based on cost-benefit analysis and budget availability?",
+      "guideline": "This ensures that risk treatment is both economically viable and aligned with available resources.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "c06d5c1b-5805-4185-a902-de20580c7c90",
+      "focusAreaId": "316b35d5-f51d-4b3f-8803-8f3a24f9c68d",
+      "text": "c)       Are chosen risk response strategies assigned to risk owners with clear implementation timelines?",
+      "guideline": "Assigning ownership and deadlines promotes accountability and timely execution of mitigation actions.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "4fb02018-756e-4d91-91f0-0ff285d6848e",
+      "focusAreaId": "7a109fdc-8d37-42f8-9755-65c148c63aa2",
+      "text": "a)     Are risk registers treated as dynamic documents and updated quarterly or as needed?",
+      "guideline": "Regular updates ensure that the risk register reflects current realities, including new risks and mitigation progress.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "b008c123-43c9-4a88-bab1-73a596fde192",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "a)      Are risk response strategies and due dates discussed and agreed upon with relevant risk owners?",
+      "guideline": "Engagement with risk owners ensures clarity, commitment, and alignment on responsibilities.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "e8ca9f4a-c11d-4b15-98e4-e0a0718ac547",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "b)      Are employees provided with mechanisms to report and escalate risks?",
+      "guideline": "Accessible reporting channels encourage early detection and proactive risk management.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 2,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "4c67185d-01ba-4aa5-8865-1d4dfedabc21",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "c)      Is there an evaluation of whether assigned responsibilities are being effectively executed?",
+      "guideline": "Performance monitoring ensures that risk management roles are fulfilled and supports continuous improvement.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 3,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "cf1508d5-3c77-4ef1-af37-5be95238100f",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "d)      Is there quarterly evaluation of whether risk response strategies are achieving desired results?",
+      "guideline": "Regular reviews help assess effectiveness and inform necessary adjustments.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 4,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "9c8db61b-cdf9-433c-9365-d76b09db0235",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "e)   Is the implementation status of risk mitigation plans monitored and evaluated quarterly?",
+      "guideline": "Tracking implementation ensures that plans are on schedule and effective in reducing risk exposure.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 5,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "2256e7ef-293a-4749-9535-1b971a5f237a",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "f)        Are periodic risk reports prepared and discussed by management, RMC, and CARC as per agreed frequency and detail?",
+      "guideline": "Structured reporting supports governance, transparency, and informed decision-making.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 6,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "8076699e-4fdd-4132-999b-6328394d5b37",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "g)      Is risk information disclosed in annual reports in line with best practices and guidance?",
+      "guideline": "Public disclosure enhances accountability and demonstrates the Department\u2019s commitment to sound risk governance.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 7,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "f3afea83-09ac-4a9c-8f36-b1436a53ccdd",
+      "focusAreaId": "f2a6719b-9d00-4136-be32-f17ff43bac4f",
+      "text": "h)      Is there an annual evaluation of whether risk management practices align with the Department\u2019s risk policy, strategy, and plan?",
+      "guideline": "Annual reviews ensure strategic alignment and identify areas for enhancement.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 8,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    },
+    {
+      "id": "7eb7b0b0-0b03-4970-aa3c-6b74d3de092c",
+      "focusAreaId": "aa96a574-1fc9-4842-b9a6-f81992cc4c18",
+      "text": "a)      Is a transversal risk management information system used to centrally store and aggregate risk data across Departments?",
+      "guideline": "A centralized system improves data consistency, facilitates analysis, and supports enterprise-wide risk oversight.",
+      "poe": "",
+      "compliance": null,
+      "score": null,
+      "order": 1,
+      "isActive": true,
+      "createdAt": "2026-06-02T04:49:12.178143+00:00",
+      "updatedAt": "2026-06-02T04:49:12.178143+00:00",
+      "deletedAt": null
+    }
+  ],
+  "questions": [],
+  "options": [],
+  "answers": [],
+  "submissions": [],
+  "sessions": [],
+  "workflowAuditLogs": [],
+  "condonationSubmissions": [],
+  "departments": [
+    {
+      "id": "533946f8-533f-41ff-966c-a9a699e5beee",
+      "name": "Finance",
+      "code": "FIN",
+      "isActive": true
+    },
+    {
+      "id": "16236647-b61f-4d62-96e7-b0018610c728",
+      "name": "Health",
+      "code": "HEA",
+      "isActive": true
+    }
+  ]
+}

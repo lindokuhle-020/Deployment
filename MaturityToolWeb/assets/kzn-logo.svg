@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- KZN Treasury Official Logo -->
+  <!-- Background shield shape -->
+  <path d="M100 5 L170 15 V35 C170 50 140 58 100 60 C60 58 30 50 30 35 V15 L100 5Z" fill="#003366"/>
+  
+  <!-- Coat of Arms / Treasury Emblem -->
+  <circle cx="100" cy="32" r="18" fill="#FFB81C"/>
+  <path d="M100 20 L105 28 L114 28 L107 34 L110 43 L100 38 L90 43 L93 34 L86 28 L95 28 Z" fill="#003366"/>
+  
+  <!-- Text: KZN -->
+  <text x="100" y="52" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">KWAZULU-NATAL</text>
+  
+  <!-- Text: TREASURY -->
+  <text x="100" y="58" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#FFB81C" text-anchor="middle">TREASURY</text>
+  
+  <!-- Decorative lines -->
+  <rect x="40" y="15" width="8" height="2" fill="#FFB81C"/>
+  <rect x="152" y="15" width="8" height="2" fill="#FFB81C"/>
+</svg>

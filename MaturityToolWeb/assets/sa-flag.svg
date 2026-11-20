@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 6" fill="none">
+  <!-- South African Flag -->
+  <!-- Green band (top) -->
+  <rect width="9" height="3" fill="#007749"/>
+  
+  <!-- Red band (bottom) -->
+  <rect y="3" width="9" height="3" fill="#E03C31"/>
+  
+  <!-- Y-shape (white band with yellow borders) -->
+  <path d="M0 6 L4.5 0 L9 6" fill="white"/>
+  
+  <!-- Yellow borders for Y-shape -->
+  <path d="M0 6 L4.5 0" stroke="#FFB81C" stroke-width="0.5"/>
+  <path d="M9 6 L4.5 0" stroke="#FFB81C" stroke-width="0.5"/>
+  <rect x="0" y="5" width="9" height="1" fill="white"/>
+</svg>
